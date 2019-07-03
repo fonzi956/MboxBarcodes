@@ -40,7 +40,6 @@
 11111600690,400,Bath,,,
 11115871324,135,Dairy,,,
 11120004113,375,Chemical cleaning,,,
-11120004113,375,Personal appreciate,,,
 11132000400,395,Dog food,,,
 11132006815,200,Dog food,,,
 11132108403,75,Dog treat,,,
@@ -61,7 +60,6 @@
 11171230264,150,brooms and mops,,,
 11171231131,225,brooms and mops,,,
 11171231148,225,brooms and mops,,,
-11171231148,275,brooms and mops,,,
 11171231155,135,brooms and mops,,,
 11171231162,135,brooms and mops,,,
 11171231179,400,brooms and mops,,,
@@ -93,7 +91,6 @@
 11171378904,150,brooms and mops,,,
 11171462696,595,brooms and mops,,,
 11171466144,1200,brooms and mops,,,
-11171466144,700,brooms and mops,,,
 11171527456,200,brooms and mops,,,
 11171548574,135,brooms and mops,,,
 11171560880,900,brooms and mops,,,
@@ -102,7 +99,6 @@
 11171568725,850,brooms and mops,,,
 11171568732,350,brooms and mops,,,
 11171568749,1200,brooms and mops,,,
-11171568749,750,brooms and mops,,,
 11171568756,350,brooms and mops,,,
 11179305520,90,Unknown,,,
 11179346615,100,Unknown,,,
@@ -152,15 +148,12 @@
 12000044953,275,Soft drinks,,,
 12000044960,276,Soft drinks,,,
 12000105425,100,Soft drinks,,,
-12000105425,100,Soft drinks,,,
 12000107351,350,Sorft drinks,,,
 12000112232,140,Soft drinks,,,
 12000112249,550,Soft drinks,,,
 12000126352,150,Soft drinks,,,
 12000140921,100,Soft drinks,,,
-12000140921,100,Soft drinks,,,
 12000140938,100,Soft drinks,,,
-12000140945,100,Soft drinks,,,
 12000140945,100,Soft drinks,,,
 12000150050,100,Soft drinks,,,
 12000151095,275,Soft drinks,,,
@@ -180,29 +173,16 @@
 12000809972,465,Chemical cleaning,,,
 12000813313,275,Soft drinks,,,
 12005404653,250,Laundry addition,,,
-12005404653,250,Luadgry detergent,,,
 12005427577,475,Laundry addition,,,
-12005427577,475,Luadgry detergent,,,
 12005427584,250,Laundry addition,,,
-12005427584,250,Luadgry detergent,,,
 12044010693,650,Shaving grooms,,,
 12044040492,400, ,,,
-12044040492,400,Haircare,,,
-12044040492,400,Unknown,,,
-12044040492,idk,Unknown,,,
 12044041727,400, ,,,
-12044041727,400,Haircare,,,
-12044041727,400,Unknown,,,
-12044041727,idk,Unknown,,,
 12125114821,250,Bath,,,
 12200710474,1125,Beer,,,
 1223004,160,Soft drinks,,,
-1223004,160,Soft drinks,,,
-1223101,160,Soft drinks,,,
 1223101,160,Soft drinks,,,
 1223305,160,Soft drinks,,,
-1223305,160,Soft drinks,,,
-1231100,160,Soft drinks,,,
 1231100,160,Soft drinks,,,
 12344110017,200,Dog food,,,
 12546007146,100,Checkout candy,,,
@@ -217,24 +197,20 @@
 12587786567,300,Plastic containers,,,
 12587788431,300,Plastic containers,,,
 1274600,160,Soft drinks,,,
-1274600,160,Soft drinks,,,
 13120017865,300,Frozen phaoto and chicken,,,
 13120017889,325,Frozen phaoto and chicken,,,
 13300547014,100,Chemical cleaning,,,
 13800100672,425,Frozen eentrees and breakfast,,,
 13800100726,315,Frozen eentrees and breakfast,,,
-13800100726,315,Frozen food,,,
 13800103420,425,Frozen eentrees and breakfast,,,
 13800120076,315,Frozen eentrees and breakfast,,,
 13800558121,425,Frozen eentrees and breakfast,,,
-13800558121,425,Frozen food,,,
 13800937742,250,Frozen eentrees and breakfast,,,
 14100085393,200,Crackers,,,
 14100085478,100,Crackers,,,
 14100096061,285,Crackers,,,
 14272122919,100,Cookies,,,
 15200300294,450,Cat treat,,,
-15200300294,450,pet food,,,
 15200300461,400,Unknown,,,
 15300200012,100,Pasta quick meal,,,
 15300200036,100,Pasta quick meal,,,
@@ -244,7 +220,6 @@
 15958983787,200,Dog food,,,
 15958985040,250,Dog food,,,
 16000106109,250,Unknown,,,
-16000106109,250,Vitiams,,,
 16000158405,idk,Salty snacks,,,
 16000159907,225,Salty snacks,,,
 16000169203,200,Pasta quick meal,,,
@@ -271,11 +246,8 @@
 16000459007,175,Chemical cleaning,,,
 16000459601,175,Chemical cleaning,,,
 16000461444,100,Pasta quick meal,,,
-16000461444,100,Unknown,,,
 16000461475,100,Pasta quick meal,,,
-16000461475,100,Unknown,,,
 16000461482,100,Pasta quick meal,,,
-16000461482,100,Unknown,,,
 16000461499,100,Unknown,,,
 16000503304,200,Pasta quick meal,,,
 16000509405,200,Pasta quick meal,,,
@@ -284,16 +256,11 @@
 16500074069,575,Vitiams,,,
 16500080046,575,Vitiams,,,
 16500537595,475,Cold flu relief,,,
-16500537595,475,Cracker,,,
 16500537601,600,Cold flu relief,,,
-16500537601,600,Cracker,,,
 16500537618,600,Cold flu relief,,,
-16500537618,600,Cracker,,,
 16500537649,475,Cold flu relief,,,
-16500537649,475,Cracker,,,
 16500537694,600,Cracker,,,
 16500543473,475,Cold flu relief,,,
-16500543473,475,Cracker,,,
 16500548416,625,Vitiams,,,
 16500550082,800,Vitiams,,,
 16500554349,625,Vitiams,,,
@@ -303,11 +270,8 @@
 16500556145,800,Vitiams,,,
 16500557098,800,Vitiams,,,
 16500559399,500,Cold flu relief,,,
-16500559399,500,Cracker,,,
 16500559429,500,Cold flu relief,,,
-16500559429,500,Cracker,,,
 16500562733,650,Cold flu relief,,,
-16500562733,650,Cracker,,,
 16500980346,200,Chemical cleaning,,,
 16571910303,100,Water,,,
 16571950842,75,Water,,,
@@ -424,9 +388,7 @@
 183689001091,500,Unknown,,,
 1842621,510,Beer,,
 19014610860,595,Dog food,,,
-19014610860,595,Dog Food,,,
 19014700110,595,Dog food,,,
-19014700110,595,Dog Food,,,
 19014800193,1375,Dog food,,,
 19200000956,300,pest control,,,
 19200006194,425,Chemical cleaning,,,
@@ -479,10 +441,8 @@
 20200029762,155,Cookies,,,
 20200129776,180,Cookies,,,
 20200129783,175,Cookies,,,
-20200129783,180,Cookies,,,
 20200130031,155,Cookies,,,
 20200130048,175,Cookies,,,
-20200130048,180,Cookies,,,
 20200150008,100,Cookies,,,
 20200150015,100,Cookies,,,
 20200150039,100,Cookies,,,
@@ -531,21 +491,9 @@
 2225427,325,Shaving grooms,,,
 2231905,300,Candy,,,
 22400393636,400, ,,,
-22400393636,400,Haircare,,,
-22400393636,400,Unknown,,,
-22400393636,idk,Unknown,,,
 22400393667,400, ,,,
-22400393667,400,Haircare,,,
-22400393667,400,Unknown,,,
-22400393667,idk,Unknown,,,
 22400393728,400, ,,,
-22400393728,400,Haircare,,,
-22400393728,400,Unknown,,,
-22400393728,idk,Unknown,,,
 22400393759,400, ,,,
-22400393759,400,Haircare,,,
-22400393759,400,Unknown,,,
-22400393759,idk,Unknown,,,
 2242036,150,Unknown,,,
 22600223290,550,Shaving grooms,,,
 2266600,100,Checkout candy,,,
@@ -561,7 +509,6 @@
 22700057009,800,Cosmetic,,,
 22700057207,800,Cosmetic,,,
 22700062485,400,Chemical cleaning,,,
-22700062485,400,Cosmetic,,,
 22700062560,400,Cosmetic,,,
 22700062645,400,Chemical cleaning,,,
 22700097746,700,Cosmetic,,,
@@ -570,7 +517,6 @@
 22700098460,600,Cosmetic,,,
 22700102990,450,Cosmetic,,,
 22700103225,450,Chemical cleaning,,,
-22700103225,450,Cosmetic,,,
 22700122110,600,Cosmetic,,,
 22700122134,600,Cosmetic,,,
 22700122196,600,Cosmetic,,,
@@ -599,19 +545,16 @@
 22700576432,700,Cosmetic,,,
 22700577736,600,Cosmetic,,,
 22700578993,600,bath,,,
-22700578993,600,Cosmetic,,,
 22700580897,700,Cosmetic,,,
 22700580910,700,Cosmetic,,,
 22700581009,600,Cosmetic,,,
 22700581030,600,Cat c flashlights and battlery,,,
-22700581030,600,Cosmetic,,,
 22700632220,500,Cosmetic,,,
 22700632305,500,Cosmetic,,,
 22700632480,500,Cosmetic,,,
 22700632565,628,Pet,,,
 22700705740,400,pest control,,,
 22798177504,250,Chemical cleaning,,,
-22798177504,250,Unknown,,,
 2284509,100,Checkout candy,,,
 229000290765,475,Dog treat,,,
 2292605,100,Checkout candy,,,
@@ -619,7 +562,6 @@
 23100001579,175,Cat treat,,,
 23100001586,175,Cat treat,,,
 23100010045,75,Dog treat,,,
-23100010045,75,Unknown,,,
 23100010069,125,dog treat,,,
 23100010182,125,dog treat,,,
 23100014012,75,Unknown,,,
@@ -628,7 +570,6 @@
 23100015705,125,dog treat,,,
 23100017792,75,Unknown,,,
 23100019079,75,Dog treat,,,
-23100019079,75,Unknown,,,
 23100023496,525,Unknown,,,
 23100024516,75,Unknown,,,
 23100024523,75,Unknown,,,
@@ -657,22 +598,16 @@
 23100110691,395,Dog food,,,
 23100110776,300,Cat treat,,,
 23100111162,75,Dog treat,,,
-23100111162,75,Unknown,,,
 23100113838,75,Dog treat,,,
-23100113838,75,Unknown,,,
 23100113852,75,Unknown,,,
 23100117072,595,Chemical cleaning,,,
-23100117072,595,Dog food,,,
 23100117089,395,Dog food,,,
 23100223902,175,Cat treat,,,
 23100279909,65,Cat treat,,,
-23100279909,65,pet food,,,
 23100335827,75,Unknown,,,
 23400002016,395,Laundry addition,,,
 23400010707,100,Dish,,,
-23400010707,100,Fresher,,,
 23400016204,100,Dish,,,
-23400016204,100,Fresher,,,
 23400021079,275,Fresher,,,
 23400350018,100,Dish,,,
 23400354498,100,Dish,,,
@@ -713,7 +648,6 @@
 24021800968,800,Reading glasses,,,
 24021800999,800,Reading glasses,,,
 24021801538,800,Eyewear,,,
-24021801538,800,Reading glasses,,,
 24021815467,600,Eyewear,,,
 24021815481,600,Eyewear,,,
 24021815504,600,Eyewear,,,
@@ -748,31 +682,17 @@
 24144812282,400,first aid,,,
 24144812299,225,first aid,,,
 24200050160,675,Luadgry detergent,,,
-24200050160,675,Luadry detergent,,,
 24200060947,450,Laundry detergents,,,
-24200060947,450,Luadgry detergent,,,
 24200089962,395s,Fabric softener,,,
-24200089962,400,Personal appreciate,,,
-24200089962,idk,Luadgry detergent,,,
 24200089993,395s,Fabric softener,,,
-24200089993,400,Personal appreciate,,,
-24200089993,idk,Luadgry detergent,,,
 24200092061,450,Luadgry detergent,,,
-24200092061,450,Luadry detergent,,,
 24200092689,700,Luadry detergent,,,
 24200095666,395s,Fabric softener,,,
-24200095666,400,Personal appreciate,,,
-24200095666,idk,Luadgry detergent,,,
 24200096472,500,Laundry addition,,,
-24200096472,500,Luadgry detergent,,,
 24200096687,675,Luadgry detergent,,,
-24200096687,675,Luadry detergent,,,
 24200096748,395,Luadgry detergent,,,
-24200096748,450,Laundry detergents,,,
 24200097875,395,Luadry detergent,,,
-24200097875,450,Luadgry detergent,,,
 24200098056,500,Laundry addition,,,
-24200098056,500,Luadgry detergent,,,
 24500060494,365,Sport drinks,,,
 24500192423,360,Sport drinks,,,
 24500334823,100,Sport drinks,,,
@@ -791,12 +711,10 @@
 25500003665,695,Unknown,,,
 25700395720,325,Chemical cleaning,,,
 25700700791,300,Unknown,,,
-25700700791,400,Chemical cleaning,,,
 25700707554,325,Chemical cleaning,,,
 25700708094,335,Chemical cleaning,,,
 25700713623,325,Chemical cleaning,,,
 25700713814,400,Chemical cleaning,,,
-25700713814,400,Unknown,,,
 26200471808,200,Salty snacks,,,
 26851123798,285,Pet,,,
 26851124092,300,Pet,,,
@@ -812,29 +730,21 @@
 27000441930,125,Lip care,,,
 27000490167,100,Popcorn,,,
 27000490174,300,Popcorn,,,
-27000490174,375,Popcorn,,,
 27331000332,200,Corn and flour Tuqrlta,,,
-27331000332,200,Unknown,,,
 27331000363,240,Corn and flour Tuqrlta,,,
 27331000608,170,Corn and flour Tuqrlta,,,
 27541009293,295,Water,,,
 27541009644,200,Water,,,
 27815001114,325,Frozen wieners and bacon,,,
 27815001237,250,Frozen meat,,,
-27815001237,250,Frozen wieners and bacon,,,
 27815003200,365,Frozen ham,,,
-27815003200,365,Frozen meat,,,
 27815003446,365,Frozen meat,,,
 27815003477,285,Frozen eentrees and breakfast,,,
 27815004375,350,Frozen ham,,,
-27815004375,350,Frozen meat,,,
 27815004382,350,Frozen ham,,,
 27815300507,325,Frozen meat,,,
-27815300507,325,Frozen wieners and bacon,,,
 27815300569,225,Frozen meat,,,
-27815300569,225,Frozen wieners and bacon,,,
 27815308114,365,Frozen ham,,,
-27815308114,365,Frozen meat,,,
 27815411081,425,Frozen meat,,,
 27815411098,425,Frozen ham,,,
 27815597266,150,Frozen ham,,,
@@ -846,7 +756,6 @@
 28000202033,85,Checkout candy,,,
 28000217600,275,Baking needs,,,
 28000466312,595,Coffee,,,
-28000466312,595,Unknown,,,
 28000593933,695,Unknown,,,
 28000781675,100,Unknown,,,
 28000822057,100,Unknown,,,
@@ -860,10 +769,8 @@
 28400019378,295,Salty snacks,,,
 28400047685,295,Salty snacks,,,
 28400055987,300,Salty snacks,,,
-28400055987,350,Unknown,,,
 28400070959,350,Salty snacks,,,
 28400071031,300,Salty snacks,,,
-28400071031,350,Salty snacks,,,
 28400083591,295,Salty snacks,,,
 28400084048,295,Salty snacks,,,
 28400084055,295,Salty snacks,,,
@@ -877,7 +784,6 @@
 28400240185,325,Salty snacks,,,
 28400240192,325,Salty snacks,,,
 28400371858,325,Salty snacks,,,
-28400371858,idk,Unknown,,,
 28400426008,200,Salty snacks,,,
 28400580281,295,Salty snacks,,,
 28400586573,350,Salty snacks,,,
@@ -888,10 +794,8 @@
 28400589895,295,Salty snacks,,,
 28400590020,295,Salty snacks,,,
 28400595070,295,Salty snacks,,,
-28400595070,295,Unknown,,,
 28400595094,295,Salty snacks,,,
 28400595117,295,Salty snacks,,,
-28400595117,295,Unknown,,,
 28400595247,295,Unknown,,,
 28400595834,200,Salty snacks,,,
 28400596688,295,Salty snacks,,,
@@ -934,7 +838,6 @@
 300450525086,650,Cracker,,,
 300450547248,650,Cracker,,,
 300450550248,600,Cracker,,,
-300450550248,650,Cracker,,,
 300450581181,650,Cracker,,,
 300650356046,550,Eyecare,,,
 300650356107,925,Eyecare,,,
@@ -986,7 +889,6 @@
 301220157469,500,Vitiams,,,
 301220180764,350,Vitiams,,,
 301220193771,600,Vitiams,,,
-301220193771,800,Vitiams,,,
 301220194914,700,Vitiams,,,
 301220199421,200,Vitiams,,,
 301220293358,350,Vitiams,,,
@@ -1007,7 +909,6 @@
 301220452120,350,Vitiams,,,
 301220452533,500,Vitiams,,,
 301220453356,350,Vitiams,,,
-301220453356,600,Vitiams,,,
 301220455237,250,Vitiams,,,
 301220467339,200,Vitiams,,,
 301220505307,450,Vitiams,,,
@@ -1039,7 +940,6 @@
 301320079500,350,Stomach medicine,,,
 301320185829,475,Stomach medicine,,,
 301490039083,275,Stomach medicine,,,
-301490039083,400,Stomach medicine,,,
 301490039564,475,Stomach medicine,,,
 301490039908,450,Stomach medicine,,,
 301490320402,225,Stomach medicine,,,
@@ -1047,7 +947,6 @@
 305210304956,155,Haircare,,,
 305212345001,450,first aid,,,
 305212750003,100,Cracker,,,
-305212750003,100,Lip care,,,
 305731961102,275,Lip care,,,
 305732012155,300,Cracker,,,
 305732883113,800,Stomach medicine,,,
@@ -1056,7 +955,6 @@
 307667250008,450,Stomach medicine,,,
 307667380002,450,Stomach medicine,,,
 307667390001,335,Stomach medicine,,,
-307667390001,450,Stomach medicine,,,
 307667760545,1000,Stomach medicine,,,
 307667849141,1000,Stomach medicine,,,
 30768000431,500,Vitiams,,,
@@ -1123,14 +1021,11 @@
 31568633829,800,Reading glasses,,,
 31568633843,800,Reading glasses,,,
 31568873034,200,Eyewear,,,
-31568873034,200,Reading glasses supplies,,,
 31568873041,200,Unknown,,,
 31568873089,300,Reading glasses,,,
 31568873171,200,Reading glasses,,,
 31568873324,300,Eyewear,,,
-31568873324,300,Reading glasses supplies,,,
 31568873898,200,Eyewear,,,
-31568873898,200,Reading glasses supplies,,,
 31779708071,90,Unknown,,,
 32023002105,385,Haircare,,,
 32023004161,385,Haircare,,,
@@ -1169,7 +1064,6 @@
 33200000204,100,Fresher,,,
 33200000532,800,Laundry detergents,,,
 33200000730,800,Laundry detergents,,,
-33200000730,800,Luadry detergent,,,
 33200000778,800,Laundry detergents,,,
 33200000907,100,Toothpastes,,,
 33200000921,100,Toothpastes,,,
@@ -1177,13 +1071,9 @@
 33200021285,850,Cat liter,,,
 33200030201,395,Laundry addition,,,
 33200065135,800,Laundry addition,,,
-33200065135,800,Luadgry detergent,,,
 33200093305,500,Laundry detergents,,,
-33200093305,500,Luadry detergent,,,
 33200093343,500,Laundry detergents,,,
-33200093343,500,Luadry detergent,,,
 33200095538,500,Laundry detergents,,,
-33200095538,500,Luadry detergent,,,
 33200113072,180,Chemical cleaning,,,
 33200113218,180,Chemical cleaning,,,
 33200114482,180,Chemical cleaning,,,
@@ -1191,10 +1081,7 @@
 33200150206,575,Cat liter,,,
 33200742425,100,Toothpastes,,,
 33200972983,600,Cat liter,,,
-33200972983,945,Cat liter,,,
 33200973324,500,Laundry detergents,,,
-33200973324,500,Luadry detergent,,,
-33200973324,800,Laundry detergents,,,
 33552011101,200,First aid,,,
 33859905585,400,Haircare,,,
 33859905592,400,Haircare,,,
@@ -1218,7 +1105,6 @@
 34225508041,200,Haircare,,,
 3422900,135,Candy,,,
 3424005,135,Candy,,,
-3424005,85,Checkout candy,,,
 3424102,85,Checkout candy,,,
 3424306,85,Checkout candy,,,
 34285120061,200,Haircare,,,
@@ -1235,7 +1121,6 @@
 3433003,85,Checkout candy,,,
 3433702,200,Candy,,,
 3435719,430,Beer,,
-3435719,735,Beer,,
 3439609,85,Checkout candy,,,
 3444009,135,Candy,,,
 3448005,135,Candy,,,
@@ -1246,7 +1131,6 @@
 3474107,100,Checkout candy,,,
 35000141088,225,bath,,,
 35000141255,225,bath,,,
-35000141255,225,Unknown,,,
 35000141484,300,bath,,,
 35000141491,300,bath,,,
 35000144744,290,Unknown,,,
@@ -1256,38 +1140,25 @@
 35000390134,300,Fabric softener,,,
 35000390141,300,Laundry addition,,,
 35000390158,300,Fabric softener,,,
-35000390158,300,Laundry addition,,,
 35000391315,225,Fabric softener,,,
-35000391315,225,Laundry addition,,,
 35000391643,175,Fabric softener,,,
-35000391643,175,Laundry addition,,,
 35000393715,700,Fabric softener,,,
-35000393715,700,Laundry addition,,,
 35000393722,700,Fabric softener,,,
-35000393722,700,Laundry addition,,,
 35000446671,100,Dish cleaner,,,
-35000446671,100,Dish detergent,,,
 35000446732,200,Dish cleaner,,,
 35000446749,200,Dish cleaner,,,
-35000446749,200,Dish detergent,,,
 35000461575,495,Dish cleaner,,,
-35000461575,495,Dish detergent,,,
 35000462855,200,Dish cleaner,,,
-35000462855,200,Dish detergent,,,
 35000462985,100,Dish cleaner,,,
-35000462985,100,Dish detergent,,,
 35000463173,200,Dish,,,
 35000464125,100,Dish cleaner,,,
 35000464132,100,Dish cleaner,,,
 35000467911,300,Dish cleaner,,,
 35000467928,300,Dish cleaner,,,
-35000467928,300,Dish detergent,,,
 35000478054,250,Dish detergent,,,
 35000491107,495,Dish cleaner,,,
-35000491107,495,Dish detergent,,,
 35000498601,300,Dish cleaner,,,
 35000498625,300,Dish cleaner,,,
-35000498625,300,Dish detergent,,,
 35000511072,100,Toothpastes,,,
 35000525963,400,Toothpastes,,,
 35000530301,300,Chemical cleaning,,,
@@ -1361,7 +1232,6 @@
 36200430170,185,Pasta sauce,,,
 363736019198,350,Cracker,,,
 363824008363,1200,Cracker,,,
-363824008363,500,Cracker,,,
 363824014654,1200,Cracker,,,
 363824018669,1200,Cracker,,,
 363824023144,1200,Cracker,,,
@@ -1370,15 +1240,11 @@
 363824191447,500,Cracker,,,
 363824192208,1200,Cracker,,,
 363824201443,500,Cracker,,,
-363824201443,650,Cracker,,,
 363824740164,325,Cracker,,,
 364613045620,250,Stomach medicine,,,
 36600810916,300,Cracker,,,
-36600810916,300,Lip care,,,
 36600814013,125,Cracker,,,
-36600814013,125,Lip care,,,
 36600828126,300,Cracker,,,
-36600828126,300,Lip care,,,
 36600833311,175,Lip care,,,
 36602192102,195,Cracker,,,
 36602300019,195,Cracker,,,
@@ -1392,41 +1258,24 @@
 37000000532,150,bath,,,
 37000004455,idk,Unknown,,,
 37000011989,750, ,,,
-37000011989,750,Haircare,,,
-37000011989,750,Unknown,,,
-37000011989,idk,Unknown,,,
 37000012146,750, ,,,
-37000012146,750,Haircare,,,
-37000012146,750,Unknown,,,
-37000012146,idk,Unknown,,,
 37000017981,850,Laundry addition,,,
 37000026112,idk,Unknown,,,
 37000042495,275,Chemical cleaning,,,
 37000061991,500, ,,,
-37000061991,500,Haircare,,,
-37000061991,500,Unknown,,,
-37000061991,idk,Unknown,,,
 37000062035,500, ,,,
-37000062035,500,Haircare,,,
-37000062035,500,Unknown,,,
-37000062035,idk,Unknown,,,
 37000071006,300,Fresher,,,
 37000106319,695,Fabric softener,,,
-37000106319,695,Laundry addition,,,
 37000110453,595,Dish cleaner,,,
-37000110453,800,Dish cleaner,,,
 37000127864,995,Laundry detergents,,,
 37000149590,595,Dish cleaner,,,
-37000149590,595,Dish detergent,,,
 37000158158,995,Laundry detergents,,,
-37000158158,995,Milk and a orange juice ,,,
 37000158455,450,brooms and mops,,,
 37000163565,275,Chemical cleaning,,,
 37000166306,500,Fresher,,,
 37000167709,400,bath,,,
 37000169420,300,brooms and mops,,,
 37000172208,375,Dish cleaner,,,
-37000172208,375,Dish detergent,,,
 37000186236,350,brooms and mops,,,
 37000194941,995,Laundry detergents,,,
 37000197430,355,Fresher,,,
@@ -1435,19 +1284,14 @@
 37000198086,300,Unknown,,,
 37000209690,795,Laundry addition,,,
 37000217374,100,Dish cleaner,,,
-37000217374,100,Dish detergent,,,
 37000220947,595,Dish cleaner,,,
-37000220947,595,Dish detergent,,,
 37000222057,idk,Lip care,,,
 37000222750,200,Dish cleaner,,,
-37000222750,265,Dish detergent,,,
 37000224006,550,Laundry detergents,,,
 37000224051,995,Laundry detergents,,,
-37000224051,995,Milk and a orange juice ,,,
 37000224068,500,Laundry detergents,,,
 37000227144,325,Fresher,,,
 37000230243,895,Luadry detergent,,,
-37000230243,950,Laundry detergents,,,
 37000233725,300,Chemical cleaning,,,
 37000236801,565,brooms and mops,,,
 37000236825,565,brooms and mops,,,
@@ -1455,56 +1299,37 @@
 37000240280,400,Laundry detergents,,,
 37000240303,995,Laundry detergents,,,
 37000255741,285,Dish cleaner,,,
-37000255741,285,Dish detergent,,,
 37000267904,400,bath,,,
 37000271413,350,Chemical cleaning,,,
 37000286042,595,Laundry detergents,,,
 37000291930,295,Fabric softener,,,
-37000291930,300,Laundry addition,,,
 37000304203,795,Fabric softener,,,
 37000318217,300,brooms and mops,,,
 37000319719,500,Fabric softener,,,
-37000319719,500,Laundry addition,,,
 37000319917,300,Fresher,,,
 37000320081,500,Fresher,,,
 37000321361,150,bath,,,
 37000339038,850,brooms and mops,,,
 37000340355,400,Dish detergent,,,
 37000355106,375,Fabric softener,,,
-37000355106,375,Laundry addition,,,
 37000357629,450,Fabric softener,,,
-37000357629,450,Personal appreciate,,,
-37000357629,500,Laundry addition,,,
-37000357629,idk,Luadgry detergent,,,
 37000385844,300,Toothpastes,,,
 37000385929,90,Unknown,,,
 37000393009,450,Fabric softener,,,
-37000393009,450,Personal appreciate,,,
-37000393009,500,Laundry addition,,,
-37000393009,idk,Luadgry detergent,,,
 37000393160,400,bath,,,
 37000401483,325,Dish detergent,,,
 37000405092,450,brooms and mops,,,
 37000417583,350,Dish detergent,,,
 37000425397,295,Fabric softener,,,
-37000425397,300,Laundry addition,,,
-37000425397,450,Laundry addition,,,
 37000429029,idk,Unknown,,,
 37000432272,500,Fabric softener,,,
 37000470922,500,Fresher,,,
 37000499442,275,Chemical cleaning,,,
 37000509547,495,Laundry detergents,,,
-37000509547,495,Unknown,,,
 37000510222,300,Chemical cleaning,,,
 37000510239,300,Chemical cleaning,,,
 37000520252,500, ,,,
-37000520252,500,Haircare,,,
-37000520252,500,Unknown,,,
-37000520252,idk,Unknown,,,
 37000571780,500, ,,,
-37000571780,500,Haircare,,,
-37000571780,500,Unknown,,,
-37000571780,idk,Unknown,,,
 37000644194,900,hair dye,,,
 37000644217,900,hair dye,,,
 37000644224,900,hair dye,,,
@@ -1519,133 +1344,85 @@
 37000812807,425,Toothpastes,,,
 37000817888,700,brooms and mops,,,
 37000820277,350,Chemical cleaning,,,
-37000820277,350,Unknown,,,
 37000823049,500,Personal appreciate,,,
-37000823049,500,softeners,,,
-37000823049,idk,Luadgry detergent,,,
 37000823131,300,Dish cleaner,,,
 37000823322,200,Fabric softener,,,
 37000823551,500,Fabric softener,,,
-37000823551,500,Laundry addition,,,
-37000823551,500,Personal appreciate,,,
-37000823551,idk,Luadgry detergent,,,
 37000823650,200,Fabric softener,,,
-37000823650,200,Laundry addition,,,
 37000823704,200,Fabric softener,,,
-37000823704,200,Laundry addition,,,
 37000823865,500,Fabric softener,,,
-37000823865,500,Laundry addition,,,
-37000823865,500,Personal appreciate,,,
-37000823865,idk,Luadgry detergent,,,
 37000827078,215,Chemical cleaning,,,
 37000827177,1000,brooms and mops,,,
 37000827276,1000,brooms and mops,,,
 37000827283,1000,brooms and mops,,,
 37000827290,1000,brooms and mops,,,
 37000827894,100,Dish cleaner,,,
-37000827894,200,Dish detergent,,,
 37000830528,800,brooms and mops,,,
 37000830580,450,brooms and mops,,,
 37000830603,1000,brooms and mops,,,
 37000830610,565,brooms and mops,,,
 37000834656,450,Fabric softener,,,
-37000834656,500,Laundry addition,,,
 37000836193,350,brooms and mops,,,
 37000837800,375,Dish cleaner,,,
 37000840015,1050,Laundry addition,,,
-37000840015,1050,Luadgry detergent,,,
 37000841531,400s,Fabric softener,,,
-37000841531,450,Laundry addition,,,
-37000841531,450,Laundry detergents,,,
 37000841753,395s,Fabric softener,,,
-37000841753,485,Laundry addition,,,
 37000844259,400,bath,,,
 37000844327,400,bath,,,
 37000844679,350,Dish detergent,,,
 37000846246,275,Dish cleaner,,,
-37000846246,275,Dish detergent,,,
 37000846475,275,Dish cleaner,,,
-37000846475,275,Dish detergent,,,
 37000846499,265,Dish cleaner,,,
-37000846499,265,Dish detergent,,,
 37000846529,265,Dish cleaner,,,
 37000846598,275,Dish cleaner,,,
-37000846598,275,Dish detergent,,,
 37000848431,900,hair dye,,,
 37000848462,900,hair dye,,,
 37000848523,900,hair dye,,,
 37000848547,900,hair dye,,,
 37000849100,1050,Laundry addition,,,
-37000849100,1050,Luadgry detergent,,,
 37000849155,1050,Laundry addition,,,
-37000849155,1050,Luadgry detergent,,,
 37000849193,1550,Laundry addition,,,
-37000849193,1550,Luadgry detergent,,,
 37000849308,595,Luadgry detergent,,,
 37000849322,595,Laundry addition,,,
-37000849322,595,Luadgry detergent,,,
 37000849377,595,Luadgry detergent,,,
 37000855224,500,Personal appreciate,,,
-37000855224,idk,Luadgry detergent,,,
 37000856368,400,bath,,,
 37000856405,400,bath,,,
 37000858676,700,Luadgry detergent,,,
 37000861768,200,Dish cleaner,,,
-37000861768,200,Dish detergent,,,
 37000861799,200,Dish cleaner,,,
-37000861799,200,Dish detergent,,,
 37000863175,600,Dish cleaner,,,
-37000863175,600,Dish detergent,,,
-37000863175,600,Unknown,,,
 37000865889,300,Fresher,,,
 37000866800,400,bath,,,
 37000867500,495,Laundry detergents,,,
-37000867500,495,Unknown,,,
 37000874522,550,Laundry detergents,,,
 37000874546,995,Laundry detergents,,,
 37000875895,550,Laundry detergents,,,
 37000876267,550,Laundry detergents,,,
 37000877691,500, ,,,
-37000877691,500,Haircare,,,
-37000877691,500,Unknown,,,
-37000877691,idk,Unknown,,,
 37000878094,375,Dish cleaner,,,
-37000878094,375,Dish detergent,,,
-37000878094,375,Unknown,,,
 37000880806,600,Dish cleaner,,,
-37000880806,600,Dish detergent,,,
-37000880806,600,Unknown,,,
 37000884361,100,Toothpastes,,,
 37000884378,100,Toothpastes,,,
 37000887393,500,Personal appreciate,,,
-37000887393,idk,Luadgry detergent,,,
 37000887461,900,hair dye,,,
 37000887485,900,hair dye,,,
 37000887577,1200,Inconvenience,,,
 37000888307,900,hair dye,,,
 37000891178,400,Laundry detergents,,,
 37000891253,595,Luadry detergent,,,
-37000891253,695,Laundry detergents,,,
 37000891291,595,Luadry detergent,,,
-37000891291,695,Laundry detergents,,,
 37000891307,950,Laundry detergents,,,
-37000891307,950,Luadry detergent,,,
 37000891314,950,Laundry detergents,,,
-37000891314,950,Luadry detergent,,,
 37000898504,400,Fabric softener,,,
-37000898504,450,Laundry addition,,,
 37000900993,500,Personal appreciate,,,
-37000900993,500,softeners,,,
-37000900993,idk,Luadgry detergent,,,
 37000901204,281,Unknown,,,
 37000904946,300,Fresher,,,
 37000905295,400,bath,,,
 37000908999,500,Fresher,,,
 37000909002,450,Unknown,,,
-37000909002,500,Fresher,,,
 37000909026,400,Fresher,,,
 37000909033,400,Fresher,,,
-37000909033,450,Unknown,,,
 37000912200,400,bath,,,
 37000914402,400,Laundry detergents,,,
 37000914518,800,Dish detergent,,,
@@ -1657,21 +1434,17 @@
 37000919834,300,bath,,,
 37000919841,300,bath,,,
 37000922612,500,Personal appreciate,,,
-37000922612,idk,Luadgry detergent,,,
 37000924234,100,Toothpastes,,,
 37000925675,400,bath,,,
 37000926924,100,Toothpastes,,,
 37000926986,900,Laundry detergents,,,
 37000928041,500,brooms and mops,,,
 37000928102,2400,brooms and mops,,,
-37000928102,2400,Dish detergent,,,
 37000928140,1200,brooms and mops,,,
 37000928164,1700,brooms and mops,,,
-37000928164,1700,Dish detergent,,,
 37000928584,100,Toothpastes,,,
 37000929697,550,Unknown,,,
 37000930358,495,Laundry detergents,,,
-37000930358,495,Unknown,,,
 37000932109,350,Dish detergent,,,
 37000932116,450,Unknown,,,
 37000932123,1000,Dish detergent,,,
@@ -1684,9 +1457,7 @@
 37000941149,500,Frozen wieners and bacon,,,
 37000941460,995,Frozen wieners and bacon,,,
 37000945994,500,Laundry addition,,,
-37000945994,500,Luadgry detergent,,,
 37000946007,900,Laundry addition,,,
-37000946007,900,Luadgry detergent,,,
 37000946137,355,Fresher,,,
 37000946274,350,Toothpastes,,,
 37000946403,350,Toothpastes,,,
@@ -1697,41 +1468,26 @@
 37000949459,995,Laundry detergents,,,
 37000949466,400s,Fabric softener,,,
 37000949473,295,Fabric softener,,,
-37000949473,300,Laundry addition,,,
 37000949916,550,Unknown,,,
 37000952749,450,Fabric softener,,,
-37000952749,500,Laundry addition,,,
 37000952848,500,Fabric softener,,,
-37000952848,500,Laundry addition,,,
-37000952848,500,Personal appreciate,,,
-37000952848,idk,Luadgry detergent,,,
 37000955672,495,Laundry detergents,,,
-37000955672,495,Unknown,,,
 37000956150,495,Laundry detergents,,,
-37000956150,495,Unknown,,,
 37000956266,500,Personal appreciate,,,
-37000956266,idk,Luadgry detergent,,,
 37000956785,300,Fresher,,,
 37000958802,300,Fresher,,,
 37000959434,300,Dish cleaner,,,
 37000960294,600,Dish cleaner,,,
-37000960294,600,Dish detergent,,,
 37000965299,1000,Dish detergent,,,
 37000965534,200,Dish cleaner,,,
 37000965558,200,Dish cleaner,,,
 37000965633,200,Dish cleaner,,,
 37000966043,500,Bath,,,
 37000967460,375,Dish cleaner,,,
-37000967460,375,Dish detergent,,,
-37000967460,375,Unknown,,,
 37000971672,375,Dish cleaner,,,
-37000971672,375,Dish detergent,,,
-37000971672,375,Unknown,,,
 37000971931,350,Fabric softener,,,
-37000971931,425,Laundry addition,,,
 37000976707,300,Chemical cleaning,,,
 37000979319,995,Laundry detergents,,,
-37000979319,995,Milk and a orange juice ,,,
 37000979326,995,Laundry detergents,,,
 370030166732,300,Cracker,,,
 370030166978,250,Cracker,,,
@@ -1763,7 +1519,6 @@
 370030658435,700,Cracker,,,
 370030658442,750,Cracker,,,
 370030658459,1200,Cracker,,,
-370030658459,750,Cracker,,,
 370030658466,750,Cracker,,,
 370030658572,425,Cold flu relief,,,
 370030658701,450,Cold flu relief,,,
@@ -1824,7 +1579,6 @@
 38000845093,150,Salty snacks,,,
 38000845130,150,Salty snacks,,,
 38000850325,150,Lays chips,,,
-38000850325,150,Salty snacks,,,
 38000852329,150,Salty snacks,,,
 38000862304,300,Frozen meat,,,
 38100106551,300,Dog food,,,
@@ -1918,15 +1672,10 @@
 41167426692,275,First aid,,,
 41196010329,195,Frozen ham,,,
 41196010886,150,Soup,,,
-41196010886,195,Frozen ham,,,
 41196410761,195,Frozen ham,,,
-41196410761,195,Soup,,,
 41196910360,195,Frozen ham,,,
-41196910360,195,Soup,,,
 41196914016,195,Frozen ham,,,
-41196914016,195,Soup,,,
 41196914030,150,Soup,,,
-41196914030,195,Frozen ham,,,
 41196914153,195,Frozen ham,,,
 41196914160,195,Frozen ham,,,
 41196915051,195,Frozen ham,,,
@@ -1944,13 +1693,10 @@
 41358501238,200,Lip care,,,
 4136202,145,Soup,,,
 41388000466,300,Cracker,,,
-41388000466,300,Lip care,,,
 41388001517,475,First aid,,,
 41388002231,150,Lip care,,,
-41388002231,155,Cracker,,,
 41388002620,150,Lip care,,,
 41388210216,150,Lip care,,,
-41388210216,155,Cracker,,,
 41388220550,150,Lip care,,,
 41390024085,2.1,Combinations,,,
 41419420058,200,Salty snacks,,,
@@ -1963,7 +1709,6 @@
 41548510972,400,Ice cream,,,
 41550010057,195,Vitiams,,,
 41554009095,500,Cosmetic,,,
-41554009095,700,Cosmetic,,,
 41554050899,600,Cosmetic,,,
 41554050905,600,Cosmetic,,,
 41554055993,800,Cosmetic,,,
@@ -1979,7 +1724,6 @@
 41554264548,350,Cosmetic,,,
 41554264562,350,Cookies,,,
 41554264579,350,Cookies,,,
-41554264579,350,Cosmetic,,,
 41554268713,600,Cosmetic,,,
 41554281446,600,Cosmetic,,,
 41554281484,600,Cosmetic,,,
@@ -1987,9 +1731,7 @@
 41554288452,600,Cosmetic,,,
 41554293197,350,Cookies,,,
 41554404890,350,Cookies,,,
-41554404890,350,Cosmetic,,,
 41554404937,350,Cookies,,,
-41554404937,350,Cosmetic,,,
 41554409284,600,Cosmetic,,,
 41554424577,350,Cookies,,,
 41554451061,500,Cosmetic,,,
@@ -2100,13 +1842,11 @@
 430000217151,100,Plastic containers,,,
 43000029220,395,Unknown,,,
 430000360376,100,Unknown,,,
-430000360376,idk,Unknown,,,
 430000376889,150,brooms and mops,,,
 430000376896,175,brooms and mops,,,
 430000436460,295,brooms and mops,,,
 430000449217,295,brooms and mops,,,
 43000045510,695,Coffee,,,
-43000045510,795,Unknown,,,
 43000046579,795,Unknown,,,
 430000487950,600,brooms and mops,,,
 430000488216,295,brooms and mops,,,
@@ -2123,11 +1863,8 @@
 430000646319,200,Cat c flashlights and battlery,,,
 430000660919,250,brooms and mops,,,
 43000200018,75,Chemical cleaning,,,
-43000200018,idk,GELATIN or PUDDING MIXES,,,
 43000204313,95,Chemical cleaning,,,
-43000204313,idk,GELATIN or PUDDING MIXES,,,
 43000204337,95,Chemical cleaning,,,
-43000204337,idk,GELATIN or PUDDING MIXES,,,
 43000285558,195,Pasta quick meal,,,
 43000953501,255,Unknown,,,
 43152015317,450,Chemical cleaning,,,
@@ -2138,12 +1875,8 @@
 43917553856,800,Shaving grooms,,,
 43917564081,800,Shaving grooms,,,
 44000000578,255,Cracker,,,
-44000000578,260,,Unknown,,
-44000000578,265,Crackers,,,
 44000019310,100,Crackers,,,
-44000019310,265,Cracker,,,
 44000024567,280,Cookies,,,
-44000024567,280,Sport drinks,,,
 44000025403,300,Cookies,,,
 44000027346,335,Cookies,,,
 44000028541,300,Cookies,,,
@@ -2151,14 +1884,11 @@
 44000030124,280,Sport drinks,,,
 44000030490,100,Crackers,,,
 44000031121,200,Crackers,,,
-44000031121,385,Cracker,,,
 44000031138,255,Crackers,,,
 44000032029,idk,Cookies,,,
 44000032197,280,Cookies,,,
-44000032197,280,Sport drinks,,,
 44000032210,280,Cookies,,,
 44000032234,280,Cookies,,,
-44000032234,280,Sport drinks,,,
 44000033255,400,Cookies,,,
 44000033279,400,Cookies,,,
 44000033385,400,Cookies,,,
@@ -2170,7 +1900,6 @@
 44000043254,300,Crackers,,,
 44000044541,idk,Cookies,,,
 44000044671,280,Cookies,,,
-44000044671,280,Sport drinks,,,
 44000045517,385,Crackers,,,
 44000046316,385,Cookies,,,
 44000048082,255,Cracker,,,
@@ -2197,7 +1926,6 @@
 44600307695,225,Bleach,,,
 44600307701,395,Bleach,,,
 44600307763,425,Bleach,,,
-44600307763,425,brooms and mops,,,
 44600307831,250,Bleach,,,
 44600309705,350,Chemical cleaning,,,
 44600311326,400,Unknown,,,
@@ -2236,7 +1964,6 @@
 46500723728,425,Chemical cleaning,,,
 46500730023,850,pest control,,,
 46500731792,270,Unknown,,,
-46500731792,300,Chemical cleaning,,,
 46500732058,200,Chemical cleaning,,,
 46500733321,100,Fresher,,,
 46500733338,100,Fresher,,,
@@ -2263,23 +1990,16 @@
 46600005014,250,Frozen ham,,,
 46600005724,250,Frozen ham,,,
 46600009760,350,Frozen ham,,,
-46600009760,350,Frozen meat,,,
 46600009791,350,Frozen ham,,,
 46600033840,100,Lunch meat,,,
 46600033864,100,Lunch meat,,,
-46600033864,135,Frozen lunch,,,
 46600034274,135,Frozen lunch,,,
 46600034281,100,Lunch meat,,,
-46600034281,135,Frozen lunch,,,
 46600220288,325,Frozen ham,,,
-46600220288,325,Frozen meat,,,
 46600220295,325,Frozen meat,,,
 46600350053,350,Frozen meat,,,
-46600350053,350,Frozen wieners and bacon,,,
 46600550033,350,Frozen meat,,,
-46600550033,350,Frozen wieners and bacon,,,
 46600550057,350,Frozen meat,,,
-46600550057,350,Frozen wieners and bacon,,,
 46798771029,300,Pet,,,
 47113609034,525,Eyecare,,,
 47113609126,925,Eyecare,,,
@@ -2339,27 +2059,17 @@
 49000045239,95,Unknown,,,
 49000045734,95,Unknown,,,
 49000045741,95,Sports drink,,,
-49000045741,95,Unknown,,,
 49000045758,95,Sports drink,,,
-49000045758,95,Unknown,,,
 49000045796,95,Unknown,,,
 49000045840,365,Sorft drinks,,,
 49000050103,165,Soft drinks,,,
-49000050103,165,Soft drinks,,,
-49000050110,165,Soft drinks,,,
 49000050110,165,Soft drinks,,,
 49000050141,165,Soft drinks,,,
-49000050141,165,Soft drinks,,,
-49000050158,165,Soft drinks,,,
 49000050158,165,Soft drinks,,,
 49000050172,160,Soft drinks,,,
-49000050172,165,Soft drinks,,,
 49000050233,100,Soft drinks,,,
 49000050257,100,Soft drinks,,,
-49000050257,135,Soft drinks,,,
 49000050264,100,Soft drinks,,,
-49000050264,100,Soft drinks,,,
-49000050271,100,Soft drinks,,,
 49000050271,100,Soft drinks,,,
 49000050349,95,Unknown,,,
 49000052350,250,Sorft drinks,,,
@@ -2367,8 +2077,6 @@
 49000052404,250,Sorft drinks,,,
 49000054569,95,Sports drink,,,
 49000055375,100,Soft drinks,,,
-49000055375,100,Soft drinks,,,
-49000055399,100,Soft drinks,,,
 49000055399,100,Soft drinks,,,
 49000059892,95,Sports drink,,,
 49000064186,95,Sports drink,,,
@@ -2386,14 +2094,12 @@
 50000293292,60,Cat treat,,,
 50000294701,1195,Laundry addition,,,
 50000295074,650,Cat treat,,,
-50000295074,650,pet food,,,
 50000350544,60,Dog treat,,,
 50000351244,60,Dog treat,,,
 50000423149,60,Cat treat,,,
 50000423347,60,Cat treat,,,
 50000427246,100,pet food,,,
 50000427543,100,Cat treat,,,
-50000427543,100,pet food,,,
 50000428748,70,Cat treat,,,
 50000429943,70,Cat treat,,,
 50000574438,165,Cat treat,,,
@@ -2401,7 +2107,6 @@
 50000577989,60,Cat treat,,,
 50000579334,70,Cat treat,,,
 50000579631,650,Cat treat,,,
-50000579631,650,pet food,,,
 50000580873,300,Cat treat,,,
 50000836123,70,Cat treat,,,
 50000960163,60,Cat treat,,,
@@ -2411,17 +2116,13 @@
 50000962860,60,Cat treat,,,
 50100006013,150,Frozen wieners and bacon,,,
 50100006037,275,Frozen meat,,,
-50100006037,275,Frozen wieners and bacon,,,
 50100142261,300,Pasta quick meal,,,
 50844466081,300,Cracker,,,
 50844470088,300,Cracker,,,
 50844527089,300,Cracker,,,
 51000005243,195,Frozen ham,,,
-51000005243,195,Soup,,,
 51000005564,195,Frozen ham,,,
-51000005564,195,Soup,,,
 51000005687,195,Frozen ham,,,
-51000005687,195,Soup,,,
 51000010315,125,Soup,,,
 51000012616,125,Soup,,,
 51000024213,100,Soup,,,
@@ -2429,15 +2130,12 @@
 51000025234,145,Pasta,,,
 51000025272,100,Pasta,,,
 51000038852,195,Frozen ham,,,
-51000038852,195,Soup,,,
 51000062765,335,Frozen eentrees and breakfast,,,
 51000065018,350,Frozen eentrees and breakfast,,,
 51000121141,250,Soup,,,
 51000128041,195,Frozen ham,,,
 51000142931,195,Frozen ham,,,
-51000142931,195,Soup,,,
 51000150073,195,Frozen ham,,,
-51000150073,195,Soup,,,
 51000187666,100,Soup,,,
 51000187673,150,Unknown,,,
 51000187680,100,Soup,,,
@@ -2445,22 +2143,17 @@
 51000202048,150,Soup,,,
 51000204806,150,Soup,,,
 51000208255,195,Frozen ham,,,
-51000208255,195,Soup,,,
 51000211644,195,Frozen ham,,,
-51000211644,195,Soup,,,
 51000211651,195,Frozen ham,,,
 51000216700,150,Unknown,,,
 51000224323,100,Pasta,,,
 51000224361,100,Pasta,,,
 51000224668,150,Soup,,,
-51000224668,150,Unknown,,,
 51000224729,150,Soup,,,
-51000224729,150,Unknown,,,
 51000224736,150,Unknown,,,
 51000227492,150,Soup,,,
 51000227508,150,Soup,,,
 51000231529,150,Soup,,,
-51000231529,150,Unknown,,,
 51009002731,155,Shaving grooms,,,
 51009009341,155,Shaving grooms,,,
 51009009501,175,Shaving grooms,,,
@@ -2497,7 +2190,6 @@
 51500555071,175,Chemical cleaning,,,
 51500601334,125,Baking needs,,,
 51500763100,175,Baking needs,,,
-51500763100,175,Chemical cleaning,,,
 51596321352,300,brooms and mops,,,
 51596321376,200,brooms and mops,,,
 51700369300,400,Dish detergent,,,
@@ -2505,38 +2197,21 @@
 51700927876,375,Dish detergent,,,
 52000010350,100,Sports drink,,,
 52000010381,100,Sport drinks,,,
-52000010381,100,Sports drink,,,
 52000010541,200,Sports drink,,,
-52000010541,260,Sports drink,,,
 52000102390,100,Sport drinks,,,
-52000102390,100,Sports drink,,,
 52000102963,100,Sport drinks,,,
 52000103939,350,Sports drink,,,
-52000103939,350,Unknown,,,
-52000103939,360,Sport drinks,,,
 52000104066,100,Sports drink,,,
 52000104073,100,Sport drinks,,,
-52000104073,100,Sports drink,,,
 52000128567,200,Sports drink,,,
-52000128567,260,Sports drink,,,
 52000128574,200,Sports drink,,,
-52000128574,260,Sports drink,,,
-52000128574,idk,Unknown,,,
 52000204087,350,Sports drink,,,
-52000204087,350,Unknown,,,
-52000204087,360,Sport drinks,,,
 52000204094,350,Sports drink,,,
-52000204094,350,Unknown,,,
-52000204094,360,Sport drinks,,,
 52000320169,100,Sport drinks,,,
-52000320169,100,Sports drink,,,
 52000325553,100,Sport drinks,,,
-52000325553,100,Sports drink,,,
 52000338751,100,Sports drink,,,
 52000338768,100,Sport drinks,,,
-52000338768,100,Sports drink,,,
 52000338775,100,Sport drinks,,,
-52000338775,100,Sports drink,,,
 52000339055,100,Sports drink,,,
 52100062105,270,Unknown,,,
 52100084800,121,Unknown,,,
@@ -2560,7 +2235,6 @@
 54300009584,100,Chemical cleaning,,,
 54600002865,285,Chemical cleaning,,,
 54600105689,285,Chemical cleaning,,,
-54600105689,285,Unknown,,,
 55049002331,2for100,Pasta,,,
 55049003543,100,Pasta quick meal,,,
 55049003581,180,Pasta,,,
@@ -2579,7 +2253,6 @@
 59642923277,100,Gum,,,
 59647510427,200,Chemical cleaning,,,
 59647510458,185,Chemical cleaning,,,
-59647510458,idk,Chemical cleaning,,,
 59647510465,185,Chemical cleaning,,,
 59647510472,150,Chemical cleaning,,,
 59647510489,200,Chemical cleaning,,,
@@ -2592,7 +2265,6 @@
 59647510588,100,Chemical cleaning,,,
 59647510595,375,Chemical cleaning,,,
 59647510618,295,Bleach,,,
-59647510618,425,Bleach,,,
 59647510632,230,Bleach,,,
 59647510649,200,Chemical cleaning,,,
 59647510731,295,Bleach,,,
@@ -2601,23 +2273,12 @@
 600699661447,135,Chemical cleaning,,,
 60200030801,395,brooms and mops,,,
 603084001200,idk, ,,,
-603084001200,idk,Haircare,,,
-603084001200,idk,Unknown,,,
 603084026852,300, ,,,
-603084026852,300,Haircare,,,
-603084026852,300,Unknown,,,
-603084026852,idk,Unknown,,,
 603084027378,700,Hair care dye,,,
 603084055920,700,Hair care dye,,,
 603084055937,700,Hair care dye,,,
 603084215102,300, ,,,
-603084215102,300,Haircare,,,
-603084215102,300,Unknown,,,
-603084215102,idk,Unknown,,,
 603084215119,300, ,,,
-603084215119,300,Haircare,,,
-603084215119,300,Unknown,,,
-603084215119,idk,Unknown,,,
 603084242528,700,Hair care dye,,,
 603084242597,700,Hair care dye,,,
 603084242627,700,Hair care dye,,,
@@ -2632,76 +2293,29 @@
 603084244577,700,Hair care dye,,,
 603084245239,700,Hair care dye,,,
 603084260140,idk, ,,,
-603084260140,idk,Haircare,,,
-603084260140,idk,Unknown,,,
 603084260201,375, ,,,
-603084260201,375,Haircare,,,
-603084260201,375,Unknown,,,
-603084260201,idk,Unknown,,,
 603084260225,300, ,,,
-603084260225,300,Haircare,,,
-603084260225,300,Unknown,,,
-603084260225,idk,Unknown,,,
 603084266173,375, ,,,
-603084266173,375,Haircare,,,
-603084266173,375,Unknown,,,
-603084266173,idk,Unknown,,,
 603084294916,300, ,,,
-603084294916,300,Haircare,,,
-603084294916,300,Unknown,,,
-603084294916,idk,Unknown,,,
 603084294923,300, ,,,
-603084294923,300,Haircare,,,
-603084294923,300,Unknown,,,
-603084294923,idk,Unknown,,,
 603084411801,300, ,,,
-603084411801,300,Haircare,,,
-603084411801,300,Unknown,,,
-603084411801,idk,Unknown,,,
 603084427390,idk, ,,,
-603084427390,idk,Haircare,,,
-603084427390,idk,Unknown,,,
 603084433919,300, ,,,
-603084433919,300,Haircare,,,
-603084433919,300,Unknown,,,
-603084433919,idk,Unknown,,,
 603084433926,300, ,,,
-603084433926,300,Haircare,,,
-603084433926,300,Unknown,,,
-603084433926,idk,Unknown,,,
 603084463169,300, ,,,
-603084463169,300,Haircare,,,
-603084463169,300,Unknown,,,
-603084463169,idk,Unknown,,,
 603084463183,300, ,,,
-603084463183,300,Haircare,,,
-603084463183,300,Unknown,,,
-603084463183,idk,Unknown,,,
 603084463336,300, ,,,
-603084463336,300,Haircare,,,
-603084463336,300,Unknown,,,
-603084463336,idk,Unknown,,,
 603084463350,300, ,,,
-603084463350,300,Haircare,,,
-603084463350,300,Unknown,,,
-603084463350,idk,Unknown,,,
 604142520152,300,Dog food,,,
 610352001237,175,Chemical cleaning,,,
 610352001244,250,Chemical cleaning,,,
 610352011540,100,Fabric softener,,,
-610352011540,100,Laundry addition,,,
 610352011557,280,Fabric softener,,,
-610352011557,280,Laundry addition,,,
 610352011564,100,Fabric softener,,,
-610352011564,100,Laundry addition,,,
 610352011571,280,Fabric softener,,,
-610352011571,280,Laundry addition,,,
 610352011588,100,Fabric softener,,,
-610352011588,100,Laundry addition,,,
 610352011618,100,Fabric softener,,,
-610352011618,100,Laundry addition,,,
 610352073036,295,Fabric softener,,,
-610352073036,295,Laundry addition,,,
 611269101713,200,Soft drinks,,,
 611269113570,255,Soft drinks,,,
 611269133448,450,Soft drinks,,,
@@ -2716,14 +2330,11 @@
 613008717711,85,Soft drinks,,,
 613008718763,85,Soft drinks,,,
 613008719302,85,Soft drinks,,,
-613008719302,idk,Cosmetic,,,
 613008720209,85,Soft drinks,,,
 613008735418,85,Soft drinks,,,
 615650220403,175,Dod treat,,,
-615650220403,200,Dog food,,,
 615650260102,180,Dog food,,,
 615650300273,295,Dog food,,,
-615650300273,300,Dod treat,,,
 615650450213,250,Dog food,,,
 617184003026,400,brooms and mops,,,
 617184201521,200,brooms and mops,,,
@@ -2805,7 +2416,6 @@
 678112653218,375,Eyecare,,,
 678112659203,235,Eyecare,,,
 678112665778,375,Eyecare,,,
-678112665778,675,Eyecare,,,
 681421020022,575,Stomach medicine,,,
 681421020145,250,Stomach medicine,,,
 681421022026,575,Stomach medicine,,,
@@ -2860,15 +2470,10 @@
 70312360499,100,Cracker,,,
 70312360543,250,Cracker,,,
 70312362370,100,Cracker,,,
-70312362370,150,Cough and lip care,,,
 70312362394,155,Cracker,,,
 70312363520,100,Cough and lip care,,,
-70312363520,100,Cracker,,,
 70312364190,100,Cracker,,,
-70312364190,155,Cracker,,,
 70312364206,200,Cough and lip care,,,
-70312364206,200,Cracker,,,
-70312364206,400,Cough and lip care,,,
 70312364213,200,Cracker,,,
 70312364251,155,Cracker,,,
 70312365197,200,Cracker,,,
@@ -2884,7 +2489,6 @@
 70330724860,285,Sport drinks,,,
 70330916104,325,Sport drinks,,,
 704051701038,450,Frozen meat,,,
-704051701038,450,Frozen wieners and bacon,,,
 70411603855,385,Jerky,,,
 70411606030,385,Jerky,,,
 70481011024,250,Chemical cleaning,,,
@@ -2903,41 +2507,25 @@
 70662096314,100,Soup,,,
 70662096321,100,Soup,,,
 70800041466,450,Frozen meat,,,
-70800041466,450,Frozen wieners and bacon,,,
 70800941469,450,Frozen meat,,,
-70800941469,450,Frozen wieners and bacon,,,
 70847003229,200,Energy drinks,,,
-70847003229,200,Soft drinks,,,
 70847012474,200,Energy drinks,,,
-70847012474,200,Soft drinks,,,
 70847012764,200,Soft drinks,,,
 70847016205,200,Energy drinks,,,
-70847016205,200,Soft drinks,,,
 70847017554,200,Energy drinks,,,
-70847017554,200,Soft drinks,,,
 70847020905,200,Energy drinks,,,
-70847020905,200,Soft drinks,,,
 70847021520,200,Energy drinks,,,
-70847021520,200,Soft drinks,,,
 70847022909,200,Energy drinks,,,
-70847022909,200,Soft drinks,,,
 70847024026,200,Energy drinks,,,
-70847024026,200,Soft drinks,,,
 70847811169,200,Energy drinks,,,
-70847811169,200,Soft drinks,,,
 70847811176,650,Soft drinks,,,
 70847811244,300,Soft drinks,,,
 70847811268,200,Energy drinks,,,
-70847811268,200,Soft drinks,,,
 70847811701,200,Energy drinks,,,
 70847812517,200,Energy drinks,,,
-70847812517,200,Soft drinks,,,
 70847812609,200,Energy drinks,,,
-70847812609,200,Soft drinks,,,
 70847812715,200,Energy drinks,,,
-70847812715,200,Soft drinks,,,
 70847812807,200,Energy drinks,,,
-70847812807,200,Soft drinks,,,
 70922049982,155,Chemical cleaning,,,
 70922050032,100,Chemical cleaning,,,
 70922050117,300,Chemical cleaning,,,
@@ -2950,9 +2538,7 @@
 70982013428,400,brooms and mops,,,
 70982014999,485,brooms and mops,,,
 71024192026,165,Baking needs,,,
-71024192026,165,Vitiams,,,
 71024392020,165,Baking needs,,,
-71024392020,165,Vitiams,,,
 71024433020,160,Vitiams,,,
 710363570538,200,Nutrition and diets,,,
 710632400047,150,Cosmetic,,,
@@ -2976,7 +2562,6 @@
 71164111215,100,Haircare,,,
 71190006004,1595,Dog food,,,
 71190006684,325,Dog food,,,
-71190006684,325,Unknown,,,
 71190008190,545,Dog food,,,
 71190050656,idk,Pet food,,,
 71249210529,800,Hair care dye,,,
@@ -3022,7 +2607,6 @@
 71505014366,125,Cheese,,,
 715256402446,585,Stomach medicine,,,
 715256431187,385,Stomach medicine,,,
-715256431187,500,Stomach medicine,,,
 715256601047,500,Cracker,,,
 715256702324,800,Cracker,,,
 715256702331,800,Cracker,,,
@@ -3045,7 +2629,6 @@
 71691498803,250,Plastic containers,,,
 71735182514,idk,Combinations,,,
 71817000217,125,Soft drinks,,,
-71817000217,125,Soft drinks,,,
 71921672171,475,Frozen food,,,
 71955107113,275,Bread,,,
 719565320507,100,Cosmetic,,,
@@ -3056,18 +2639,15 @@
 719565356698,500,Cosmetic,,,
 71990300692,1080,Beer,,,
 720547001017,500,Chemical cleaning,,,
-720547001017,500,Unknown,,,
 720547006005,200,Chemical cleaning,,,
 720547730801,idk,Chemical cleaning,,,
 720547730818,idk,Chemical cleaning,,,
 720547730832,200,Chemical cleaning,,,
-720547730832,idk,Chemical cleaning,,,
 72105011489,450,Frozen wieners and bacon,,,
 72105011885,350,Unknown,,,
 72140005443,250,bath,,,
 72140005740,200,Shaving grooms,,,
 72140014216,250,Cracker,,,
-72140014216,250,Lip care,,,
 72140018627,350,bath,,,
 72140020552,350,bath,,,
 72140020576,350,bath,,,
@@ -3097,50 +2677,27 @@
 72562054456,80,Cat treat,,,
 725821000847,395,Chemical cleaning,,,
 72613451081,200,Fabric softener,,,
-72613451081,200,Laundry addition,,,
-72613451081,200,Personal appreciate,,,
-72613451081,idk,Luadgry detergent,,,
 72613451692,300,Fabric softener,,,
-72613451692,300,Laundry addition,,,
 72613451784,485,Fabric softener,,,
-72613451784,485,Laundry addition,,,
 72613451852,450,Fabric softener,,,
-72613451852,450,Laundry addition,,,
 72613458301,345,Luadgry detergent,,,
-72613458301,500,Luadry detergent,,,
 72613459896,450,Fabric softener,,,
-72613459896,450,Laundry addition,,,
 72613459940,450,Fabric softener,,,
 72613460908,450,Fabric softener,,,
-72613460908,450,Laundry addition,,,
 72613460946,450,Fabric softener,,,
-72613460946,450,Laundry addition,,,
 72613461554,345,Luadgry detergent,,,
-72613461554,500,Luadry detergent,,,
 72613461578,800,Luadgry detergent,,,
-72613461578,800,Luadry detergent,,,
 72613461608,345,Luadgry detergent,,,
-72613461608,500,Luadry detergent,,,
 72613461622,800,Luadry detergent,,,
 72613462797,500,Laundry detergents,,,
 72613463497,500,Luadgry detergent,,,
-72613463497,500,Luadry detergent,,,
-72613463497,500,Pet food,,,
 72613463671,345,Luadgry detergent,,,
-72613463671,500,Luadry detergent,,,
 72613463794,400,Laundry detergents,,,
 72613705566,800,Luadry detergent,,,
 72613708062,500,Luadgry detergent,,,
-72613708062,500,Luadry detergent,,,
-72613708062,500,Pet food,,,
 72613708802,250,Laundry addition,,,
-72613708802,250,Luadgry detergent,,,
 72613710744,500,Luadgry detergent,,,
-72613710744,500,Luadry detergent,,,
-72613710744,500,Pet food,,,
 72613710751,500,Luadgry detergent,,,
-72613710751,500,Luadry detergent,,,
-72613710751,500,Pet food,,,
 72740383712,500,Unknown,,,
 727510001395,500,Suncare,,,
 727510003337,600,Suncare,,,
@@ -3178,7 +2735,6 @@
 72785113978,250,Bath,,,
 72785113985,250,Bath,,,
 72785114074,200,Bath,,,
-72785114074,250,Bath,,,
 72785114111,185,Dish detergent,,,
 72785114814,250,Bath,,,
 72785114838,100,Bath,,,
@@ -3220,14 +2776,11 @@
 72891701748,100,Water,,,
 72891704602,75,Water,,,
 72959060220,375,Nutrition and diets,,,
-72959060220,385,Vitiams,,,
 72982449399,525,Ethic care,,,
 72982449818,525,Ethic care,,,
 73010480100,290,Unknown,,,
 730637022013,250,Cold flu relief,,,
-730637022013,250,Cracker,,,
 730637023010,250,Cold flu relief,,,
-730637023010,250,Cracker,,,
 73078012121,100,Chemical cleaning,,,
 73078121212,100,Chemical cleaning,,,
 73091018643,400,Pet,,,
@@ -3239,7 +2792,6 @@
 73149342669,600,Plastic containers,,,
 73149394866,600,Plastic containers,,,
 731509103229,400,Cosmetic,,,
-731509103229,500,Cosmetic,,,
 731509505207,295,Cosmetic,,,
 731509505238,100,Cosmetic,,,
 731509505290,295,Cosmetic,,,
@@ -3276,20 +2828,16 @@
 731509587180,200,Cosmetic,,,
 731509587203,200,Cosmetic,,,
 731509605570,100,Nail paint,,,
-731509605570,150,Cosmetic,,,
 731509605594,150,Cosmetic,,,
 731509605617,100,Nail paint,,,
-731509605617,150,Cosmetic,,,
 731509605624,100,Cosmetic,,,
 731509605631,100,Cosmetic,,,
-731509605631,150,Cosmetic,,,
 731509605679,100,Cosmetic,,,
 731509605686,100,Nail paint,,,
 731509605709,100,Nail paint,,,
 731509605716,100,Nail paint,,,
 731509605723,100,Nail paint,,,
 731509605730,100,Cosmetic,,,
-731509605730,100,Nail paint,,,
 731509605754,100,Cosmetic,,,
 731509605761,100,Cosmetic,,,
 731509605778,100,Cosmetic,,,
@@ -3302,7 +2850,6 @@
 731509605884,100,Cosmetic,,,
 731509605891,100,Cosmetic,,,
 731509605907,100,Cosmetic,,,
-731509605907,100,Nail paint,,,
 731509605914,100,Cosmetic,,,
 731509605921,100,Nail paint,,,
 731509605938,100,Nail paint,,,
@@ -3400,20 +2947,13 @@
 73852025859,idk,Bath,,,
 73852033717,125,Bath,,,
 74108075154,1000,Hair appreciate,,,
-74108075154,700,Hair appreciate,,,
-74108075154,700,Personal appreciate,,,
 74108081230,1000,Hair appreciate,,,
-74108081230,1000,Personal appreciate,,,
 74108087096,1000,Personal appreciate,,,
-74108087096,2000,Hair appreciate,,,
 74108104649,1200,first aid,,,
 74108172563,1500,Hair appreciate,,,
-74108172563,1500,Personal appreciate,,,
 74108221254,1500,Hair appreciate,,,
-74108221254,1800,Personal appreciate,,,
 74108261250,1000,Personal appreciate,,,
 74108268082,800,Hair appreciate,,,
-74108268082,800,Personal appreciate,,,
 74108268242,1400,Personal appreciate,,,
 74108277039,1500,Personal appreciate,,,
 74108288585,1500,Personal appreciate,,,
@@ -3436,7 +2976,6 @@
 74182292638,100,Bath,,,
 741943236308,200,brooms and mops,,,
 742678100575,375,Personal appreciate,,,
-742678100575,idk,Luadgry detergent,,,
 74300005355,485,First aid,,,
 74300005393,445,First aid,,,
 74312572449,600,Vitiams,,,
@@ -3489,7 +3028,6 @@
 75724252004,535,Haircare,,,
 75724631083,300,Haircare,,,
 75919001806,360,Fresher,,,
-75919001806,360,Laundry detergents,,,
 75919011003,250,Fresher,,,
 75933215241,200,Vitiams,,,
 75933220931,100,Vitiams,,,
@@ -3515,7 +3053,6 @@
 763089013667,600,Nutrition and diets,,,
 76314302970,450,Vitiams,,,
 76314302987,450,Nutrition and diets,,,
-76314302987,450,Vitiams,,,
 76314321087,450,Nutrition and diets,,,
 764302215691,695,Ethic care,,,
 764302215707,695,Ethic care,,,
@@ -3636,33 +3173,22 @@
 77900501692,340,Frozen eentrees and breakfast,,,
 77900706158,300,Frozen eentrees and breakfast,,,
 78000000344,125,Soft drinks,,,
-78000000344,125,Soft drinks,,,
-78000003376,125,Soft drinks,,,
 78000003376,125,Soft drinks,,,
 78000011807,425,Soft drinks,,,
 78000013054,400,Chemical cleaning,,,
 78000013368,100,Soft drinks,,,
 78000013566,100,Soft drinks,,,
 78000052169,425,Soft drinks,,,
-78000052169,434,Sorft drinks,,,
 78000052466,125,Soft drinks,,,
-78000052466,160,Soft drinks,,,
-78000052466,idk,Soft drinks,,,
 78000082166,475,Chemical cleaning,,,
-78000082166,475,Soft drinks,,,
-78000082395,100,Soft drinks,,,
 78000082395,100,Soft drinks,,,
 78000082463,160,Soft drinks,,,
-78000082463,165,Soft drinks,,,
 78000083163,475,Chemical cleaning,,,
-78000083163,475,Soft drinks,,,
 78000083460,165,Soft drinks,,,
 78000098464,165,Soft drinks,,,
 78000113464,125,Soft drinks,,,
-78000113464,125,Soft drinks,,,
 78000116465,125,Soft drinks,,,
 78000152463,160,Soft drinks,,,
-78000152463,idk,Soft drinks,,,
 78000206463,100,Soft drinks,,,
 780707005170,400,Eyecare,,,
 780707005217,300,Eyecare,,,
@@ -3681,7 +3207,6 @@
 786162150004,125,Water,,,
 786162338006,100,Water,,,
 78742147130,idk,Cosmetic,,,
-78742147130,idk,Dod treat,,,
 787651200675,300,Vitiams,,,
 79068004039,65,First aid,,,
 79068005319,100,First aid,,,
@@ -3696,9 +3221,7 @@
 79100000784,100,Cat treat,,,
 79100000791,100,Cat treat,,,
 79100112357,475,Cat treat,,,
-79100112357,475,pet food,,,
 79100217045,485,Cat treat,,,
-79100217045,485,pet food,,,
 79100344178,2.1,Dog treat,,,
 79100501540,450,Dog food,,,
 79100503018,2.1,dog treat,,,
@@ -3749,7 +3272,6 @@
 80196314860,200,First aid,,,
 802535434158,300,Haircare,,,
 802535439030,285,Haircare,,,
-802535439030,565,Haircare,,,
 802535442122,300,Haircare,,,
 802535443082,300,Haircare,,,
 802535454019,100,Haircare,,,
@@ -3799,7 +3321,6 @@
 809219080007,150,bath,,,
 809219080021,150,bath,,,
 809219600038,150,bath,,,
-809219600038,200,bath,,,
 810105006346,100,Unknown,,,
 810333022484,575,Ethic care,,,
 810333022491,575,Ethic care,,,
@@ -3945,23 +3466,17 @@
 82269420102,300,brooms and mops,,,
 82269422021,250,brooms and mops,,,
 82269720301,300,brooms and mops,,,
-82269720301,650,brooms and mops,,,
 827444000638,200,Eyecare,,,
 827755070139,325,Shaving grooms,,,
 829274006224,600,Cat treat,,,
-829274006224,600,pet food,,,
 829274505598,925,Pet food,,,
 829274513753,425,Laundry addition,,,
-829274513753,450,Pet food,,,
 829274527156,150,Cat treat,,,
 82988010066,550,Frozen food,,,
 83078003142,275,Cracker,,,
-83078003142,275,Lip care,,,
 83078003173,275,Lip care,,,
 83078113148,100,Cracker,,,
-83078113148,100,Lip care,,,
 83078113179,100,Cracker,,,
-83078113179,100,Lip care,,,
 830961003815,200,Lighters,,,
 831248001975,435,Stomach medicine,,,
 836272001571,idk,Chemical cleaning,,,
@@ -4080,9 +3595,7 @@
 884912111715,265,Cereal,,,
 884912129710,265,Cereal,,,
 885898000086,600,Nutrition and diets,,,
-885898000086,600,Vitiams,,,
 886449508105,350,Cat treat,,,
-886449508105,359,Chemical cleaning,,,
 886449520107,200,Chemical cleaning,,,
 886490291216,110,Vitiams,,,
 887661037671,600,Eyewear,,,
@@ -4117,7 +3630,6 @@
 887661841155,1000,Reading glasses,,,
 887661841162,1000,Reading glasses,,,
 887661841179,1000,Eyewear,,,
-887661841179,1000,Reading glasses,,,
 887661952769,600,Eyewear,,,
 887661952783,800,Reading glasses,,,
 887661952790,800,Reading glasses,,,
@@ -4139,9 +3651,7 @@
 8902971166582,200,Pet,,,
 891549110202,200,pest control,,,
 892992002274,300,Cracker,,,
-892992002274,300,Lip care,,,
 892992002281,300,Cracker,,,
-892992002281,300,Lip care,,,
 893484000310,200,Fresher,,,
 893484000341,200,Fresher,,,
 893484000938,175,Fresher,,,
@@ -4157,54 +3667,36 @@
 91093822266,200,Dod treat,,,
 91093822334,225,Dog food,,,
 91093822341,200,Dod treat,,,
-91093822341,200,Dog food,,,
 91093833354,275,Dog food,,,
-91093833354,300,Dod treat,,,
 91093833378,250,Dod treat,,,
-91093833378,275,Dog food,,,
 91093833392,250,Dog food,,,
 91108104967,350,Cracker,,,
 92961040096,500,Nutrition and diets,,,
 93000501110,100,Cracker,,,
-93000501110,100,Lip care,,,
 93000501127,100,Lip care,,,
 93000501134,100,Cracker,,,
 93000501141,100,Cracker,,,
 93000501158,100,Cracker,,,
-93000501158,100,Lip care,,,
 93000502094,100,Lip care,,,
-93000502094,105,Cracker,,,
 93000502148,185,Lip care,,,
 93973730128,185,Fabric softener,,,
-93973730128,185,Laundry addition,,,
 93973794090,200,Chemical cleaning,,,
 93973797732,200,Fabric softener,,,
-93973797732,200,Laundry addition,,,
 93973980042,idk,Chemical cleaning,,,
 93973980219,idk,Chemical cleaning,,,
 93973980554,100,Chemical cleaning,,,
 94514000014,995,Luadry detergent,,,
 94514410530,200,Luadgry detergent,,,
-94514410530,200,Luadry detergent,,,
 94514412503,800,Luadry detergent,,,
 94514412510,800,Luadgry detergent,,,
-94514412510,800,Luadry detergent,,,
 94514414200,500,Laundry detergents,,,
-94514414200,500,Luadry detergent,,,
 94514414217,500,Laundry detergents,,,
-94514414217,idk,Luadgry detergent,,,
 94514414224,idk,Luadgry detergent,,,
 94514416044,500,Laundry detergents,,,
-94514416044,500,Luadry detergent,,,
 94514419670,275,Luadgry detergent,,,
-94514419670,275,Luadry detergent,,,
 94514428351,275,Luadgry detergent,,,
-94514428351,275,Luadry detergent,,,
 94514428597,500,Laundry detergents,,,
-94514428597,500,Luadry detergent,,,
 94514428689,500,Laundry detergents,,,
-94514428689,500,Luadgry detergent,,,
-94514428689,500,Luadry detergent,,,
 94514428696,500,Luadry detergent,,,
 94514428702,idk,Luadgry detergent,,,
 94514428719,395,Luadry detergent,,,
@@ -4221,3 +3713,513 @@
 98533340175,300,Crackers,,,
 98533340182,100,Crackers,,,
 98533340199,100,Crackers,,,
+
+ duplicate: 
+11120004113
+11171231148
+11171466144
+11171568749
+12000105425
+12000140921
+12000140945
+12005404653
+12005427577
+12005427584
+12044040492
+12044040492
+12044040492
+12044041727
+12044041727
+12044041727
+1223004
+1223101
+1223305
+1231100
+1274600
+13800100726
+13800558121
+15200300294
+16000106109
+16000461444
+16000461475
+16000461482
+16500537595
+16500537601
+16500537618
+16500537649
+16500543473
+16500559399
+16500559429
+16500562733
+19014610860
+19014700110
+20200129783
+20200130048
+22400393636
+22400393636
+22400393636
+22400393667
+22400393667
+22400393667
+22400393728
+22400393728
+22400393728
+22400393759
+22400393759
+22400393759
+22700062485
+22700103225
+22700578993
+22700581030
+22798177504
+23100010045
+23100019079
+23100111162
+23100113838
+23100117072
+23100279909
+23400010707
+23400016204
+24021801538
+24200050160
+24200060947
+24200089962
+24200089962
+24200089993
+24200089993
+24200092061
+24200095666
+24200095666
+24200096472
+24200096687
+24200096748
+24200097875
+24200098056
+25700700791
+25700713814
+27000490174
+27331000332
+27815001237
+27815003200
+27815004375
+27815300507
+27815300569
+27815308114
+28000466312
+28400055987
+28400071031
+28400371858
+28400595070
+28400595117
+300450550248
+301220193771
+301220453356
+301490039083
+305212750003
+307667390001
+31568873034
+31568873324
+31568873898
+33200000730
+33200065135
+33200093305
+33200093343
+33200095538
+33200972983
+33200973324
+33200973324
+3424005
+3435719
+35000141255
+35000390158
+35000391315
+35000391643
+35000393715
+35000393722
+35000446671
+35000446749
+35000461575
+35000462855
+35000462985
+35000467928
+35000491107
+35000498625
+363824008363
+363824201443
+36600810916
+36600814013
+36600828126
+37000011989
+37000011989
+37000011989
+37000012146
+37000012146
+37000012146
+37000061991
+37000061991
+37000061991
+37000062035
+37000062035
+37000062035
+37000106319
+37000110453
+37000149590
+37000158158
+37000172208
+37000217374
+37000220947
+37000222750
+37000224051
+37000230243
+37000255741
+37000291930
+37000319719
+37000355106
+37000357629
+37000357629
+37000357629
+37000393009
+37000393009
+37000393009
+37000425397
+37000425397
+37000509547
+37000520252
+37000520252
+37000520252
+37000571780
+37000571780
+37000571780
+37000820277
+37000823049
+37000823049
+37000823551
+37000823551
+37000823551
+37000823650
+37000823704
+37000823865
+37000823865
+37000823865
+37000827894
+37000834656
+37000840015
+37000841531
+37000841531
+37000841753
+37000846246
+37000846475
+37000846499
+37000846598
+37000849100
+37000849155
+37000849193
+37000849322
+37000855224
+37000861768
+37000861799
+37000863175
+37000863175
+37000867500
+37000877691
+37000877691
+37000877691
+37000878094
+37000878094
+37000880806
+37000880806
+37000887393
+37000891253
+37000891291
+37000891307
+37000891314
+37000898504
+37000900993
+37000900993
+37000909002
+37000909033
+37000922612
+37000928102
+37000928164
+37000930358
+37000945994
+37000946007
+37000949473
+37000952749
+37000952848
+37000952848
+37000952848
+37000955672
+37000956150
+37000956266
+37000960294
+37000967460
+37000967460
+37000971672
+37000971672
+37000971931
+37000979319
+370030658459
+38000850325
+41196010886
+41196410761
+41196910360
+41196914016
+41196914030
+41388000466
+41388002231
+41388210216
+41554009095
+41554264579
+41554404890
+41554404937
+430000360376
+43000045510
+43000200018
+43000204313
+43000204337
+44000000578
+44000000578
+44000019310
+44000024567
+44000031121
+44000032197
+44000032234
+44000044671
+44600307763
+46500731792
+46600009760
+46600033864
+46600034281
+46600220288
+46600350053
+46600550033
+46600550057
+49000045741
+49000045758
+49000050103
+49000050110
+49000050141
+49000050158
+49000050172
+49000050257
+49000050264
+49000050271
+49000055375
+49000055399
+50000295074
+50000427543
+50000579631
+50100006037
+51000005243
+51000005564
+51000005687
+51000038852
+51000142931
+51000150073
+51000208255
+51000211644
+51000224668
+51000224729
+51000231529
+51500763100
+52000010381
+52000010541
+52000102390
+52000103939
+52000103939
+52000104073
+52000128567
+52000128574
+52000128574
+52000204087
+52000204087
+52000204094
+52000204094
+52000320169
+52000325553
+52000338768
+52000338775
+54600105689
+59647510458
+59647510618
+603084001200
+603084001200
+603084026852
+603084026852
+603084026852
+603084215102
+603084215102
+603084215102
+603084215119
+603084215119
+603084215119
+603084260140
+603084260140
+603084260201
+603084260201
+603084260201
+603084260225
+603084260225
+603084260225
+603084266173
+603084266173
+603084266173
+603084294916
+603084294916
+603084294916
+603084294923
+603084294923
+603084294923
+603084411801
+603084411801
+603084411801
+603084427390
+603084427390
+603084433919
+603084433919
+603084433919
+603084433926
+603084433926
+603084433926
+603084463169
+603084463169
+603084463169
+603084463183
+603084463183
+603084463183
+603084463336
+603084463336
+603084463336
+603084463350
+603084463350
+603084463350
+610352011540
+610352011557
+610352011564
+610352011571
+610352011588
+610352011618
+610352073036
+613008719302
+615650220403
+615650300273
+678112665778
+70312362370
+70312363520
+70312364190
+70312364206
+70312364206
+704051701038
+70800041466
+70800941469
+70847003229
+70847012474
+70847016205
+70847017554
+70847020905
+70847021520
+70847022909
+70847024026
+70847811169
+70847811268
+70847812517
+70847812609
+70847812715
+70847812807
+71024192026
+71024392020
+71190006684
+715256431187
+71817000217
+720547001017
+720547730832
+72140014216
+72613451081
+72613451081
+72613451081
+72613451692
+72613451784
+72613451852
+72613458301
+72613459896
+72613460908
+72613460946
+72613461554
+72613461578
+72613461608
+72613463497
+72613463497
+72613463671
+72613708062
+72613708062
+72613708802
+72613710744
+72613710744
+72613710751
+72613710751
+72785114074
+72959060220
+730637022013
+730637023010
+731509103229
+731509605570
+731509605617
+731509605631
+731509605730
+731509605907
+74108075154
+74108075154
+74108081230
+74108087096
+74108172563
+74108221254
+74108268082
+742678100575
+75919001806
+76314302987
+78000000344
+78000003376
+78000052169
+78000052466
+78000052466
+78000082166
+78000082395
+78000082463
+78000083163
+78000113464
+78000152463
+78742147130
+79100112357
+79100217045
+802535439030
+809219600038
+82269720301
+829274006224
+829274513753
+83078003142
+83078113148
+83078113179
+885898000086
+886449508105
+887661841179
+892992002274
+892992002281
+91093822341
+91093833354
+91093833378
+93000501110
+93000501158
+93000502094
+93973730128
+93973797732
+94514410530
+94514412510
+94514414200
+94514414217
+94514416044
+94514419670
+94514428351
+94514428597
+94514428689
+94514428689
